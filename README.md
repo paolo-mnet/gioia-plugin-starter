@@ -7,7 +7,7 @@ Un semplice punto di partenza per lo sviluppo di plugin WordPress targati [Marco
 Crea una copia di questa repository in locale:
 ```bash
 $ cd desktop
-$ git clone TBD
+$ git clone https://github.com/paolospag/gioia-plugin-starter.git
 $ cd gioia-plugin-starter
 ```
 
